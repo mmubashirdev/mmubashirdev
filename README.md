@@ -30,9 +30,13 @@ Software Engineer Sophomore | Full Stack Developer | AI / ML Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+   </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  
 </p>
 
 ---
@@ -61,6 +65,7 @@ Software Engineer Sophomore | Full Stack Developer | AI / ML Enthusiast
   <a href="https://github.com/mmubashirdev">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" height="30"/>
   </a>
+  <a href="https://www.leetcode.com/https://leetcode.com/u/muhammad__mubashir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/muhammad__mubashir/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -90,7 +95,14 @@ Software Engineer Sophomore | Full Stack Developer | AI / ML Enthusiast
 </p>
 
 ---
+<h3 align="left">☕ Support My Work</h3>
 
+<p align="left">
+  <a href="https://patreon.com/mubashirdev" target="_blank"
+ here </a>
+</p>
+
+---
 <p align="center">
 <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
