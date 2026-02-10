@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mubashir</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Mubashir bin</h1>
 <h3 align="center">
 Software Engineer Sophomore | Full Stack Developer | AI / ML Enthusiast
 </h3>
