@@ -104,9 +104,8 @@ MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
 
 | Project | Description | Live |
 |---|---|---|
-| Electro | E-commerce style frontend | [↗ View](https://electro.vercel.app) |
-| Healthcare Landing Page | Responsive doctor's website | [↗ View](https://doctors-website.vercel.app) |
-| JS Mini Projects | HTML/CSS/JS experiments | [↗ View](https://frontend-projects.vercel.app) |
+| Electro | E-commerce style frontend | [↗ View]([https://electro.vercel.app](https://electro-cyan-xi.vercel.app/)) |
+| Healthcare Landing Page | Responsive doctor's website | [↗ View]([https://doctors-website.vercel.app](https://doctors-website-ecru.vercel.app/)) |
 
 ---
 
