@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mubashir</h1>
+<h1 align="center">Hello World, I am M Mubashir</h1>
 <h3 align="center">
-MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
+MERN Stack Developer · Trainee Software Engineer
 </h3>
 
 <p align="center">
-🎓 BS Software Engineering Student @ Lahore Garrison University <br/>
-🌍 Lahore, Pakistan &nbsp;·&nbsp; 💼 Open to Remote & On-site Roles
+ BS Software Engineering Student @ Lahore Garrison University <br/>
+ Lahore, Pakistan &nbsp;·&nbsp;  Open to work
 </p>
 
 <p align="center">
@@ -15,9 +15,6 @@ MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
   <a href="mailto:mmubashirr.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/mmubashirdev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/u/muhammad__mubashir/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
@@ -26,30 +23,19 @@ MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
 
 ---
 
-## 👨‍💻 About Me
-
-- 💼 **Trainee Software Engineer** at **SeeBiz**  *(12 months, on-site)*
-- 🔭 Built a **full-stack social media platform** with Node.js, Express, MongoDB & WebSockets
-- 🌱 Strengthening knowledge in **AI, web development, and information security**
-- 🤝 Open to **junior developer roles**, **internships**, and **freelance** opportunities
-
-📌 *Strong fundamentals + real-world projects = long-term success.*
-
----
-
 ## 💼 Work Experience
 
-**🏢 Trainee Software Engineer — [SeeBiz](https://seebiz.com)**
+**Trainee Software Engineer @ [SeeBiz](https://seebiz.com)**
 `Lahore, Pakistan · On-site · 2024`
 
 - Built and maintained full-stack web features using **Node.js**, **Express.js**, and **MongoDB**
-- Developed responsive frontend interfaces with **HTML5**, **CSS3**, and **JavaScript**
+- Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, and **React**
 - Worked on backend API development and database schema design with **SQL Server** & **MongoDB**
-- Applied **MVC architecture** within a professional team delivery workflow
+- Applied using **MVC architecture**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -84,31 +70,6 @@ MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 [Social Media Platform](https://github.com/mmubashirdev/social_media_app)
-> Full-stack social media app — real-world architecture, built from scratch
-
-| Layer | Details |
-|---|---|
-| 🏗️ Architecture | MVC pattern with clean separation of concerns |
-| 🔐 Auth | JWT-based authentication + bcrypt password hashing |
-| 📡 Real-time | WebSocket integration for live features |
-| 📁 Uploads | Multer middleware for media handling |
-| 🗄️ Database | MongoDB + Mongoose ODM with schema validation |
-| ⚙️ Stack | `Node.js` `Express.js` `MongoDB` `WebSockets` `JWT` `bcrypt` `Multer` |
-
----
-
-### 🌐 Frontend Projects (Live on Vercel)
-
-| Project | Description | Live |
-|---|---|---|
-| Electro | E-commerce style frontend | [↗ View]([https://electro.vercel.app](https://electro-cyan-xi.vercel.app/)) |
-| Healthcare Landing Page | Responsive doctor's website | [↗ View]([https://doctors-website.vercel.app](https://doctors-website-ecru.vercel.app/)) |
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -122,26 +83,11 @@ MERN Stack Developer · Trainee Software Engineer · AI/ML Enthusiast
 
 ---
 
-## 📚 Currently Learning
-
-- ⚛️ **React.js** — completing the full MERN stack
-- 🔒 **Information Security** & Cryptography
-- 🖥️ **Operating Systems** — process management, IPC, synchronization
-- 🧠 **Data Structures & Algorithms** (LeetCode)
-
----
-
 ## 🏅 Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stack-MERN_Developer-blue"/>
-  <img src="https://img.shields.io/badge/Arch-MVC_%26_REST_APIs-green"/>
   <img src="https://img.shields.io/badge/Open%20To-Junior_Roles_%26_Internships-success"/>
   <img src="https://img.shields.io/badge/DSA-LeetCode_Practice-orange"/>
 </p>
 
----
-
-<p align="center">
-<i>"First, solve the problem. Then, write the code." – John Johnson</i>
-</p>
