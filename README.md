@@ -69,21 +69,4 @@ MERN Stack Developer · Trainee Software Engineer
   <img src="https://img.shields.io/badge/MVC_Architecture-6DB33F?style=flat-square"/>
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mmubashirdev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏅 Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stack-MERN_Developer-blue"/>
-  <img src="https://img.shields.io/badge/Open%20To-Junior_Roles_%26_Internships-success"/>
-  <img src="https://img.shields.io/badge/DSA-LeetCode_Practice-orange"/>
-</p>
 
