@@ -25,7 +25,7 @@ MERN Stack Developer · Trainee Software Engineer
 
 ## Work Experience
 
-**Trainee Software Engineer @ [SeeBiz](https://seebiz.com)**
+**Trainee Software Engineer**
 `Lahore, Pakistan · On-site · 2024`
 
 - Built full-stack web apps using **Node.js**, **Express.js**, and **MongoDB**
