@@ -1,11 +1,11 @@
-<h1 align="center">Hello World, I am M Mubashir</h1>
+<h1 align="center">Hello, I am M Mubashir</h1>
 <h3 align="center">
 MERN Stack Developer · Trainee Software Engineer
 </h3>
 
 <p align="center">
  BS Software Engineering Student @ Lahore Garrison University <br/>
- Lahore, Pakistan &nbsp;·&nbsp;  Open to work
+ Lahore, Pakistan &nbsp;·&nbsp;  Open to collaborate
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ MERN Stack Developer · Trainee Software Engineer
 `Lahore, Pakistan · On-site · 2024`
 
 - Built full-stack web apps using **Node.js**, **Express.js**, and **MongoDB**
-- Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, and **React**
+- Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, **React**, **Typescript**
 - Worked on restful API development and database schema design in **MongoDB**
 - Applied using **MVC architecture**
 
