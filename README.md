@@ -4,7 +4,7 @@ MERN Stack Developer · Trainee Software Engineer
 </h3>
 
 <p align="center">
- BS Software Engineering Student @ Lahore Garrison University <br/>
+ BS Software Engineering @ Lahore Garrison University <br/>
  Lahore, Pakistan &nbsp;·&nbsp;  Open to collaborate
 </p>
 
@@ -31,7 +31,7 @@ MERN Stack Developer · Trainee Software Engineer
 - Built full-stack web apps using **Node.js**, **Express.js**, and **MongoDB**
 - Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, **React**, **Typescript**
 - Worked on restful API development and database schema design in **MongoDB**
-- Applied using **MVC architecture**
+- Applied using **MVC architecture** and also learned **NEXT.JS**
 
 ---
 
