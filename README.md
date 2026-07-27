@@ -26,9 +26,9 @@ MERN Stack Developer · Trainee Software Engineer
 ## Work Experience
 
 **Trainee Software Engineer**
-`Lahore, Pakistan · On-site · 2024`
+`Lahore, Pakistan · On-site · 2025`
 
-- Built full-stack web apps using **Node.js**, **Express.js**, and **MongoDB**
+- Built full stack web apps using **Node.js**, **Express.js**, and **MongoDB**
 - Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, **React**, **Typescript**
 - Worked on restful API development and database schema design in **MongoDB**
 - Applied using **MVC architecture** and also learned **NEXT.JS**
