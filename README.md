@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am M Mubashir</h1>
 <h3 align="center">
-MERN Stack Developer · Trainee Software Engineer
+MERN Stack Developer · Software Engineer
 </h3>
 
 <p align="center">
