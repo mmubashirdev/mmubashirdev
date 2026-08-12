@@ -25,8 +25,7 @@ MERN Stack Developer · Software Engineer
 
 ## Work Experience
 
-**Trainee Software Engineer**
-`Lahore, Pakistan · On-site · 2025`
+**Mern stack developer**
 
 - Built full stack web apps using **Node.js**, **Express.js**, and **MongoDB**
 - Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, **React**, **Typescript**
