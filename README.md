@@ -4,7 +4,7 @@ MERN Stack Developer · Software Engineer
 </h3>
 
 <p align="center">
- BS Software Engineering @ Lahore Garrison University <br/>
+ BS Software Engineering @ LGU<br/>
  Lahore, Pakistan &nbsp;·&nbsp;  Open to collaborate
 </p>
 
