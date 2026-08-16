@@ -30,7 +30,7 @@ MERN Stack Developer · Software Engineer
 - Built full stack web apps using **Node.js**, **Express.js**, and **MongoDB**
 - Developed responsive frontend interfaces with **HTML5**, **CSS3**,**Bootstrap**, **JavaScript**, **React**, **Typescript**
 - Worked on restful API development and database schema design in **MongoDB**
-- Applied using **MVC architecture** and also learned **NEXT.JS**
+- Applied using **MVC architecture** and also built a project in **NEXT.JS** and came to learn it's routing 
 
 ---
 
