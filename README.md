@@ -1,6 +1,6 @@
 <h1 align="center">MySelf, M Mubashir</h1>
 <h3 align="center">
-MERN Stack Developer · Software Engineer
+Software Engineer | Full Stack Developer 
 </h3>
 
 <p align="center">
